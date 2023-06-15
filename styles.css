@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eefad4;
+    display: flex;
+}
+.container {
+    height: 10rem;
+    width: 30%;
+    margin : 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
