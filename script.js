@@ -1,5 +1,4 @@
-let input = document.getElementById('string');
-let inputValue = input.Value;
+let inputValue = document.getElementById('string').Value;
 let result = document.getElementById('result');
 let submitBtn = document.getElementById('submit');
 
